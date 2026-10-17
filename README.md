@@ -74,7 +74,7 @@ Linear Regression outperformed Random Forest across all four evaluation metrics.
 |-------|----------------|-----------------|------|
 | Linear Regression | 54.44 | 72.13 | 1.32% |
 
-![Actual vs. Predicted Housing Occupancy](images/actual_vs_prediction.png)
+![Actual vs. Predicted Housing Occupancy](actual_vs_prediction.png)
 
 *Figure 1. Actual versus predicted housing occupancy using Linear Regression and Leave-One-Out Cross-Validation (LOOCV). COVID-disrupted years (2020–2021) were excluded.*
 
